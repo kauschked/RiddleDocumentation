@@ -58,7 +58,7 @@ master_doc = "index"
 
 # General information about the project.
 author = "Hacktoberfest Munich"
-project = "Python Template"
+project = "Rest Riddle"
 copyright = (f"2021, MIT")
 title = "Riddle Docs"
 
@@ -103,7 +103,7 @@ todo_include_todos = True
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'classic'
+html_theme = 'bizstyle'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -167,11 +167,11 @@ html_theme = 'classic'
 
 # If false, no module index is generated.
 #
-# html_domain_indices = True
+html_domain_indices = False
 
 # If false, no index is generated.
 #
-# html_use_index = True
+html_use_index = False
 
 # If true, the index is split into individual pages for each letter.
 #

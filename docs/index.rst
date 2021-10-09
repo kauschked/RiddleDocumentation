@@ -1,14 +1,12 @@
-Python Temlate
-==============
+Hacktoberfest 2021 - Rest Riddle
+================================
 
-This is the python template.
-
-Indices and tables
-------------------
+Welcome to the Hacktoberfest Munich Event in 2021.
+This year we prepared a set of Riddles on a Rest-Interface for you.
+To learn more see the pages below.
 
 .. toctree::
     :maxdepth: 2
-    :caption: Contents
 
-    sample_page
-    package_doc
+    presentation
+    rest_riddles
