@@ -8,6 +8,10 @@ To make changes to the documentation edit the files under `docs/`.
 After adding or change your points open a PR and request a Review from a member of the Hacktoberfest Munich team.
 When merged the documentation will be automatically updated. 
 
+You can view the documentation here:
+
+https://hacktoberfestmunich.github.io/RiddleDocumentation/
+
 ## Generate docs locally
 
 To generate the documentation locally checkout the repository first.
