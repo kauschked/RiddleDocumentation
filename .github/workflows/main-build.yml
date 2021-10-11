@@ -26,5 +26,6 @@ jobs:
         run: tox -e ALL
       - name: Deploy rendered docs
         uses: JamesIves/github-pages-deploy-action@4.1.5
-        branch: gh-pages
-        folder: artifacts/doc/html
+        with:
+          branch: gh-pages
+          folder: artifacts/doc/html
