@@ -23,7 +23,7 @@ and activate the environment in the current console with and install the initial
 
 ```shell
 source .venv/bin/activate
-pip install tox tox-gh-actions
+pip install -r requirements.txt
 ```
 
 After that the documentation can be build with
