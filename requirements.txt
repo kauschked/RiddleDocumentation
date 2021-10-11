@@ -79,3 +79,6 @@ virtualenv==20.7.2
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
+
+# Material theme
+sphinx-material==0.0.35
