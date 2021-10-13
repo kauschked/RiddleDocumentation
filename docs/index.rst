@@ -18,3 +18,4 @@ REST-Riddles
     :maxdepth: 2
 
     rest_riddles
+    first_rittle
