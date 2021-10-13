@@ -1,0 +1,5 @@
+Solution 14 (wild monster appears)
+==================================
+
+Set cookies > 5
+--> https://hacktoberfest2021.poeschl.xyz/lVeUrV7MAObziN8bp4tO
