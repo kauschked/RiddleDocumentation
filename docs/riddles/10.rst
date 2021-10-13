@@ -1,0 +1,5 @@
+Solution 10 (magic circle)
+==========================
+
+Download the PNG of the magic circle and open it in a HEX editor
+--> https://hacktoberfest2021.poeschl.xyz/uQUpNG1dVvaIO8aX21DS/key/1
