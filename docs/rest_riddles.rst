@@ -20,4 +20,5 @@ See the first one for a example.
     riddles/10
     riddles/11
     riddles/12
+    riddles/13
 
