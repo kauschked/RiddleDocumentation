@@ -11,4 +11,7 @@ See the first one for a example.
     riddles/1
     riddles/2
     riddles/3
+    riddles/4
+    riddles/5
+    riddles/6
 

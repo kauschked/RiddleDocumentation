@@ -1,4 +1,4 @@
-Third Challenge
-===============
+Solution 3
+============
 
 call the URL with HTTP-DELETE

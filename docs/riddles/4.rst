@@ -1,0 +1,5 @@
+Solution 4
+============
+
+Crying old man:
+Add query-params to the URL and call it e.g. https://hacktoberfest2021.poeschl.xyz/KHV8vhIwGcDaBHDS43Em?options

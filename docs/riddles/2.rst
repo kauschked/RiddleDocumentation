@@ -1,4 +1,4 @@
-Second Challenge
-================
+Solution 2
+============
 
 The button's attribute is set to disabled. Just remove that attribute click that button.

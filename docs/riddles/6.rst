@@ -1,0 +1,5 @@
+Solution 6
+============
+
+Set the security param to "none"
+https://hacktoberfest2021.poeschl.xyz/OQde6cbho6Kj9vcuYHYg?security=none

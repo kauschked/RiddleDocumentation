@@ -1,0 +1,4 @@
+Solution 5
+============
+
+Call the URL with HTTP-DELETE
