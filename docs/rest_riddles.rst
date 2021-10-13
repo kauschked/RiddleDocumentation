@@ -15,4 +15,5 @@ See the first one for a example.
     riddles/5
     riddles/6
     riddles/7
+    riddles/8
 
