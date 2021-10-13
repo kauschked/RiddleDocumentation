@@ -1,4 +1,4 @@
-Solution 6
+Solution 6 (A hasshing ssssnake)
 ============
 
 Set the security param to "none"
