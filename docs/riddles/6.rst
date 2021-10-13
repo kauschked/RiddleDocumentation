@@ -3,3 +3,12 @@ Solution 6
 
 Set the security param to "none"
 https://hacktoberfest2021.poeschl.xyz/OQde6cbho6Kj9vcuYHYg?security=none
+
+
+Set the security param to "base64"
+https://hacktoberfest2021.poeschl.xyz/OQde6cbho6Kj9vcuYHYg?security=base64
+
+Decode the base64 string and use the decoded resource
+https://hacktoberfest2021.poeschl.xyz/4dVjE06G0LTtNycdkj4f
+
+
