@@ -8,4 +8,7 @@ See the first one for a example.
     :maxdepth: 2
 
     riddles/introduction
+    riddles/1
+    riddles/2
+    riddles/3
 
