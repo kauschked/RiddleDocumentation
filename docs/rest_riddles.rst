@@ -10,4 +10,5 @@ See the first one for a example.
     riddles/introduction
     riddles/1
     riddles/2
+    riddles/3
 
