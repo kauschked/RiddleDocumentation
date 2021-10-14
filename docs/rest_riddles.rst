@@ -4,6 +4,25 @@ Riddle Documentation
 This page should contain links to a page which describes the solution for given riddle.
 See the first one for a example.
 
+Riddle name mapping:
+
+1: <a> element in the DOM 
+2: Disabled button
+3: Calling URL with http delete
+4: Crying old man
+5: Calling URL with http delete
+6: A hasshing ssssnake
+7: To be defined 
+8: Rhein/Rhine
+9: Herald with boxes
+10: Magic Circle
+11: Keypad
+12: Tree trunk
+13: An old disk
+14: wild monster appears
+15: Security button
+16: Closing doors
+
 .. toctree::
     :maxdepth: 2
 
