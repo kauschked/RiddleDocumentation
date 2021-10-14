@@ -18,7 +18,7 @@ Riddle name mapping:
 
 6: A hasshing ssssnake
 
-7: To be defined 
+7: `To be defined` 
 
 8: Rhein/Rhine
 
