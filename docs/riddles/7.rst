@@ -1,0 +1,6 @@
+Solution 7
+============
+
+Either delete the script that is moving the link
+OR
+just copy the link from the href attribute

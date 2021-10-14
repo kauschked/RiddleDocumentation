@@ -1,0 +1,5 @@
+Solution 15 (security button)
+=============================
+
+group work, coordinate 5 people to push the button at the same time
+--> https://hacktoberfest2021.poeschl.xyz/70Tk5vGUXkomUhlJewac

@@ -1,0 +1,4 @@
+Solution 9 (Herald with boxes)
+==============================
+
+Call URL of Herald riddle using HTTP-PUT

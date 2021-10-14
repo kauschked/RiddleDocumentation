@@ -1,0 +1,5 @@
+Solution 12 (tree trunk)
+========================
+
+Open the URL in a different browser
+--> https://hacktoberfest2021.poeschl.xyz/HUtTz3r5gDwWFjgicaRA
