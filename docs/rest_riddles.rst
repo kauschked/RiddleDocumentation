@@ -25,4 +25,4 @@ See the first one for a example.
     riddles/15
     riddles/16
     riddles/closing_doors
-
+    riddles/small_goblin

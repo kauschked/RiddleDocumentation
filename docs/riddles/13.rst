@@ -1,5 +1,10 @@
 Solution 13 (an old disk)
 =========================
 
+* Encoded url: sClByC7THVigpU8iw4aV 
+* Decoded url: lVeUrV7MAObziN8bp4tO
+
+You can use the following tool for decode the url https://gc.de/gc/rot13/
+
 Shift the URL characters by 7
 --> https://hacktoberfest2021.poeschl.xyz/lVeUrV7MAObziN8bp4tO
