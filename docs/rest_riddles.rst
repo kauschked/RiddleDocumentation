@@ -24,4 +24,5 @@ See the first one for a example.
     riddles/14
     riddles/15
     riddles/16
+    riddles/small_goblin
 
